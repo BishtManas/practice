@@ -1,44 +1,54 @@
-import random 
-choices = ["r" , "p" , "s"]
+import random
 
-dic = { "r" : "rock", "p" : "paper", "s" : "sicssor" }
+choices = ["r", "p", "s"]
+names = {"r": "rock", "p": "paper", "s": "scissor"}
+
+score = 100
 
 def game():
-    
+    global score
+
+    print("Welcome to Rock-Paper-Scissors! 🔥")
+
     while True:
-        your_choice = input("Enter rock (r), paper(p), or scissor(s) : ").lower()
+        your_choice = input("Enter rock (r), paper (p), or scissor (s): ").lower()
+        if your_choice not in choices:
+            print("❌ Invalid input! Please enter 'r', 'p', or 's'.")
+            continue
+
         computer_choice = random.choice(choices)
-        if your_choice in dic and computer_choice in dic:
-            print(f"You choose {dic[your_choice]}\ncomputer choose {dic[computer_choice]}")
-        
-        
+        print(f"\nYou chose -> {names[your_choice]}")
+        print(f"Computer chose -> {names[computer_choice]}\n")
+
+        result = (your_choice, computer_choice)
+        winning = [("r", "s"), ("s", "p"), ("p", "r")]
+
         if your_choice == computer_choice:
-            print ("it's a tie ")
-            try_again()
-        elif (your_choice == "r" and computer_choice == "s") or (your_choice == "s" and computer_choice == "p") or (your_choice == "p" and computer_choice == "r"):
-            print ("you win")
-            try_again()
-            
-        elif (your_choice == "r" and computer_choice == "p") or (your_choice == "s" and computer_choice == "r") or (your_choice == "p" and computer_choice == "s") :
-            print ("you loose")
-            try_again()
-        else :
-            print ("invalid input ! please try again .") 
-        
-def try_again():
-    while True :
-        con = input ("you want to continue(ct) or not (n) : ")
-    
-        if con == "n":
-            print ("thanks for playing with me >>>>")
-            quit()
-        elif con == "ct":
-            game()
-            break 
-        else :
-            print ("invalid error ! ")
-        
+            print("⚖️ It's a tie!")
+        elif result in winning:
+            print("✅ You win!")
+            score += 10
+        else:
+            print("❌ You lose!")
+            score -= 10
+
+        print(f"Your current score: {score}")
+
+        # Ask to continue
+        while True:
+            cont = input("\nPress Enter to continue, or type 'n' to quit: ").lower()
+            if cont == "n":
+                print("\nThanks for playing! 🙌")
+                if score > 100:
+                    print(f"🔥 Well played! Final score: {score}")
+                elif score < 100:
+                    print(f"Not bad, try again! Final score: {score}")
+                else:
+                    print(f"Final score: {score}")
+                return
+            elif cont == "":
+                break
+            else:
+                print("❗ Invalid input. Press Enter to continue, or type 'n' to quit.")
+
 game()
-
-                    
-
