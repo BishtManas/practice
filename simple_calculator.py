@@ -12,7 +12,7 @@ def division (a , b ):
     else :
         print (f"here is your answer {a} / {b} = {a / b}")
     
-def substraction (a , b ):
+def subtraction (a , b ):
     
     print (f"here is your answer {a} - {b} = {a - b}")
 
@@ -29,9 +29,9 @@ while True:
     elif s == "/":
         division (a , b )
     elif s == "-":
-        substraction (a , b )
+        subtraction (a , b )
     else :
-        print (" invaid input ! please try again .")
+        print ("Invalid input ! please try again .")
         
     want = input ("you want to continue (c) or not(n) : ")
     while True:
