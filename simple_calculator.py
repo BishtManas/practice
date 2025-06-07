@@ -7,7 +7,7 @@ def multiplication (a , b ):
     print (f"here is your answer {a} x {b} = {a * b}")
     
 def division (a , b ):
-    if a == 0 or b ==0 :
+    if a == 0 or b ==0:
         print ("not divisible by 0")
     else :
         print (f"here is your answer {a} / {b} = {a / b}")
