@@ -50,7 +50,7 @@ update this soon as possible
 
 ## 📫 Contact
 
-- GitHub: [YourGitHubUsername](https://github.com/BishtManas)
+- GitHub: [My git hub Account(click here)](https://github.com/BishtManas)
 - Email: bishtmanas2008@gmail.com
 
 ---
