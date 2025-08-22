@@ -108,6 +108,13 @@ This repo contains simple Python programs I created while learning and practicin
 
 ---
 
+## 12. Password Generator
+- **Description:** A Python-based tool to generate secure and random passwords. Useful for creating strong credentials for various applications, with options for custom length, symbols, numbers, and letters.
+- **Tech Stack:** Python
+- **Location:** `/password_generatorl.py`
+
+---
+
 ## 📌 Notes
 
 - Each project contains its own README with setup instructions and details.)
