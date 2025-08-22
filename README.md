@@ -20,31 +20,97 @@ This repo contains simple Python programs I created while learning and practicin
 - Get comfortable using Git and GitHub
 
 ## 📁 Projects
-update this soon as possible 
-### 1. Project Name 1
-- **Description:** A short summary of what this project does.
-- **Tech Stack:** (e.g., Python, React, Node.js, etc.)
-- **Location:** [`/project-name-1`](./project-name-1)
+## 1. Binary Converter
+
+- **Description:** Converts decimal numbers into binary format.
+- **Tech Stack:** Python
+- **Location:** `/binary_converter.py`
 
 ---
 
-### 2. Project Name 2
-- **Description:** A short summary of what this project does.
-- **Tech Stack:** (e.g., HTML, CSS, JavaScript)
-- **Location:** [`/project-name-2`](./project-name-2)
+## 2. Dice Roller
+
+- **Description:** Simulates rolling a dice and returns a random value between 1 and 6.
+- **Tech Stack:** Python
+- **Location:** `/dice_roller.py`
 
 ---
 
-### 3. Project Name 3
-- **Description:** A short summary of what this project does.
-- **Tech Stack:** (e.g., Java, MySQL, Spring Boot)
-- **Location:** [`/project-name-3`](./project-name-3)
+## 3. Guess Game
+
+- **Description:** A simple number guessing game where the player has to guess a randomly generated number.
+- **Tech Stack:** Python
+- **Location:** `/guess_game.py`
+
+---
+
+## 4. Math Module
+
+- **Description:** Provides functions for basic mathematical operations such as addition, subtraction, multiplication, and division.
+- **Tech Stack:** Python
+- **Location:** `/math_module.py`
+
+---
+
+## 5. Quiz
+
+- **Description:** A quiz game that asks the user multiple questions and calculates the score based on the answers.
+- **Tech Stack:** Python
+- **Location:** `/quiz.py`
+
+---
+
+## 6. Simple Calculator
+
+- **Description:** A basic calculator that performs operations like addition, subtraction, multiplication, and division.
+- **Tech Stack:** Python
+- **Location:** `/simple_calculator.py`
+
+---
+
+## 7. Simple To-Do List
+
+- **Description:** A command-line based to-do list app where users can add, view, and remove tasks.
+- **Tech Stack:** Python
+- **Location:** `/simple_to_do_list.py`
+
+---
+
+## 8. Stone Paper Scissors
+
+- **Description:** Classic Rock-Paper-Scissors game played between the user and the computer.
+- **Tech Stack:** Python
+- **Location:** `/stone_paper_sicssor.py`
+
+---
+
+## 9. Tic-Tac-Toe
+
+- **Description:** A two-player game of Tic-Tac-Toe played in the terminal.
+- **Tech Stack:** Python
+- **Location:** `/tic-tac-toe.py`
+
+---
+
+## 10. Toss Coin
+
+- **Description:** Simulates a coin toss that randomly returns heads or tails.
+- **Tech Stack:** Python
+- **Location:** `/toss_coin.py`
+
+---
+
+## 11. Updated Calculator
+
+- **Description:** An improved version of the simple calculator with additional features or a better UI.
+- **Tech Stack:** Python
+- **Location:** `/updatedcalculator.py`
 
 ---
 
 ## 📌 Notes
 
-- Each project contains its own README with setup instructions and details.(i will upload this soon)
+- Each project contains its own README with setup instructions and details.)
 - This repo is regularly updated as I build and upload new projects.
 - Feel free to explore, clone, and contribute!
 
