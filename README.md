@@ -20,7 +20,7 @@ This repo contains simple Python programs I created while learning and practicin
 - Get comfortable using Git and GitHub
 
 ## 📁 Projects
-## 1. Binary Converter
+## 1. [Binary Converter](https://github.com/BishtManas/practice/blob/main/My%20projects%20/binary_converter.py)
 
 - **Description:** Converts decimal numbers into binary format.
 - **Tech Stack:** Python
@@ -28,7 +28,7 @@ This repo contains simple Python programs I created while learning and practicin
 
 ---
 
-## 2. Dice Roller
+## 2. [Dice Roller](https://github.com/BishtManas/practice/blob/main/My%20projects%20/dice_roller.py)
 
 - **Description:** Simulates rolling a dice and returns a random value between 1 and 6.
 - **Tech Stack:** Python
@@ -36,7 +36,7 @@ This repo contains simple Python programs I created while learning and practicin
 
 ---
 
-## 3. Guess Game
+## 3. [Guess Game](https://github.com/BishtManas/practice/blob/main/My%20projects%20/guess_game.py)
 
 - **Description:** A simple number guessing game where the player has to guess a randomly generated number.
 - **Tech Stack:** Python
@@ -44,7 +44,7 @@ This repo contains simple Python programs I created while learning and practicin
 
 ---
 
-## 4. Math Module
+## 4. [Math Module](https://github.com/BishtManas/practice/blob/main/My%20projects%20/math_module.py)
 
 - **Description:** Provides functions for basic mathematical operations such as addition, subtraction, multiplication, and division.
 - **Tech Stack:** Python
