@@ -52,7 +52,7 @@ This repo contains simple Python programs I created while learning and practicin
 
 ---
 
-## 5. Quiz
+## 5. [Quiz]()
 
 - **Description:** A quiz game that asks the user multiple questions and calculates the score based on the answers.
 - **Tech Stack:** Python
@@ -60,7 +60,7 @@ This repo contains simple Python programs I created while learning and practicin
 
 ---
 
-## 6. Simple Calculator
+## 6. [Simple Calculator]()
 
 - **Description:** A basic calculator that performs operations like addition, subtraction, multiplication, and division.
 - **Tech Stack:** Python
@@ -68,7 +68,7 @@ This repo contains simple Python programs I created while learning and practicin
 
 ---
 
-## 7. Simple To-Do List
+## 7. [Simple To-Do List]()
 
 - **Description:** A command-line based to-do list app where users can add, view, and remove tasks.
 - **Tech Stack:** Python
@@ -76,7 +76,7 @@ This repo contains simple Python programs I created while learning and practicin
 
 ---
 
-## 8. Stone Paper Scissors
+## 8. [Stone Paper Scissors]()
 
 - **Description:** Classic Rock-Paper-Scissors game played between the user and the computer.
 - **Tech Stack:** Python
@@ -84,7 +84,7 @@ This repo contains simple Python programs I created while learning and practicin
 
 ---
 
-## 9. Tic-Tac-Toe
+## 9. [Tic-Tac-Toe]()
 
 - **Description:** A two-player game of Tic-Tac-Toe played in the terminal.
 - **Tech Stack:** Python
@@ -92,7 +92,7 @@ This repo contains simple Python programs I created while learning and practicin
 
 ---
 
-## 10. Toss Coin
+## 10. [Toss Coin]()
 
 - **Description:** Simulates a coin toss that randomly returns heads or tails.
 - **Tech Stack:** Python
