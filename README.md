@@ -123,7 +123,7 @@ This repo contains simple Python programs I created while learning and practicin
 
 ## 📫 Contact
 
-- GitHub: [BishtManas)](https://github.com/BishtManas)
+- GitHub: [BishtManas](https://github.com/BishtManas)
 
 ---
 
