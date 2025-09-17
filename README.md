@@ -100,7 +100,7 @@ This repo contains simple Python programs I created while learning and practicin
 
 ---
 
-## 11. Updated Calculator
+## 11. [Updated Calculator](https://github.com/BishtManas/practice/blob/main/My%20projects%20/updatedcalculator.py)
 
 - **Description:** An improved version of the simple calculator with additional features or a better UI.
 - **Tech Stack:** Python
@@ -108,7 +108,7 @@ This repo contains simple Python programs I created while learning and practicin
 
 ---
 
-## 12. Password Generator
+## 12. [Password Generator](https://github.com/BishtManas/practice/blob/main/My%20projects%20/password_generatorl.py)
 - **Description:** A Python-based tool to generate secure and random passwords. Useful for creating strong credentials for various applications, with options for custom length, symbols, numbers, and letters.
 - **Tech Stack:** Python
 - **Location:** `/password_generatorl.py`
@@ -123,10 +123,8 @@ This repo contains simple Python programs I created while learning and practicin
 
 ## 📫 Contact
 
-- GitHub: [My git hub Account(click here)](https://github.com/BishtManas)
-- Email: bishtmanas2008@gmail.com
+- GitHub: [BishtManas)](https://github.com/BishtManas)
 
 ---
 
-> Made with ❤️ by [Manas]
-
+> Made by [Manas]
