@@ -113,8 +113,7 @@ This repo contains simple Python programs I created while learning and practicin
 
 ## 📌 Notes
 
-- Each project contains its own README with setup instructions and details.)
-- This repo is regularly updated as I build and upload new projects.
+- Each project contains its own README with setup instructions and details.
 - Feel free to explore, clone, and contribute!
 
 ## 📫 Contact
